@@ -1,0 +1,23 @@
+
+body { 
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+img {
+    width: 49%; 
+}
+
+li:first-child img {
+    width: 100%;
+}
+
+
